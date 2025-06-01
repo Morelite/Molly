@@ -1,5 +1,5 @@
 body {
-    background-color:#9086aa;
+    background-color:#cdc1ea;
     
 .roboto- {
     font-family: "Roboto", sans-serif;
@@ -11,7 +11,7 @@ a {
    color: #5a52f6; 
 }
 .weather-app {
-    background: rgb(227, 168, 210);
+    background: rgb(240, 204, 230);
     max-width: 700px;
     margin: 45px auto;
     box-shadow: 0 30px 50px rgba(65, 50, 100 0.08);
